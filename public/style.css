@@ -20,9 +20,8 @@ h1 {
 }
 
 h2 {
-  font-family: 'Space', sans-serif;
+  font-family: 'SpaceB', sans-serif;
   font-size: 2rem;
-
   color: #A2D5AC;
 }
 
@@ -270,25 +269,25 @@ footer p, #copyright {
     font-size: 2rem; 
   }
   h2 {
-    font-size: 1.6rem; 
+    font-size: 1rem; 
   }
   h3 {
-    font-size: 1.1rem;
+    font-size: 0.6rem;
   }
   p {
-    font-size: 1rem;
+    font-size: 0.6rem;
   }
 
   .theme {
-    font-size: 1.8rem; 
+    font-size: 1rem; 
     margin-bottom: 20px;
   }
   .question {
-    font-size: 2rem; 
+    font-size: 1.4rem; 
     margin-bottom: 20px;
   }
   .answer {
-    font-size: 1.2rem; 
+    font-size: 0.8rem; 
     margin-bottom: 20px;
   }
 
@@ -306,7 +305,7 @@ footer p, #copyright {
 
   .game-container {
     margin-top: -100px; 
-    padding: 0 30px;
+    padding: 0px 40px 0px 40px;
   }
 
   .category-container {
