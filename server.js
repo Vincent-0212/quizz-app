@@ -1,6 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const fs = require("fs");
+const port = process.env.PORT || 3000;
 
 const app = express();
 const FILE_NAME = "table.json";
@@ -28,4 +29,6 @@ app.post("/questions", (req, res) => {
   });
 });
 
-app.listen(3000, "0.0.0.0", () => console.log("Serveur accessible sur le réseau local"));
+app.listen(port, '0.0.0.0', () => {
+  console.log(`Serveur démarré sur le port ${port}`);
+});
