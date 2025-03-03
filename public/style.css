@@ -106,7 +106,7 @@ html, body {
 
 .button-container {
   display: flex;
-  gap: 24px;
+  gap: 20px;
   justify-content: center;
   width: 100%;
 }
