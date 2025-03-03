@@ -267,6 +267,7 @@ footer p, #copyright {
 
 #subtitle {
   font-size: 1.4rem;
+  font-family: 'SpaceB', sans-serif;
 }
 
 @media (max-width: 600px) {
