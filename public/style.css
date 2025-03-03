@@ -111,8 +111,8 @@ html, body {
   width: 100%;
 }
 
-footer p, #copyright {
-  padding: 20px;
+#copyright {
+  padding-bottom: 20px;
 }
 
 .btn-primary, .btn-secondary {
