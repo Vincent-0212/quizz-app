@@ -54,7 +54,7 @@ function fetchQuestionsSolo() {
   .then(res => res.json())
   .then(data => {
     if (data.length < 20) {
-      alert("Erreur : Pas assez de questions disponibles !");
+      alert("Pas assez de questions disponibles ! Sélectionnez plus de catégories.");
       window.location.href = "settings.html";
       return;
     }
