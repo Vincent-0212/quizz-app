@@ -4,6 +4,11 @@
 }
 
 @font-face {
+  font-family: 'SpaceB';
+  src: url('./fonts/spaceB.ttf') format('truetype');
+}
+
+@font-face {
   font-family: 'Machina';
   src: url('./fonts/machina.ttf') format('truetype');
 }
@@ -57,7 +62,7 @@ html, body {
   display: flex;
   justify-content: center;
   font-size: 1.8rem;
-  font-weight: bold;
+  font-family: 'SpaceB', sans-serif;
 }
 
 .header-content {
@@ -152,7 +157,6 @@ footer p, #copyright {
   gap: 10px;
   color: #E5EEC1;
   font-size: 16px;
-  font-weight: 500;
   cursor: pointer;
 }
 
@@ -191,7 +195,6 @@ footer p, #copyright {
   background: #263D41;
   color: #E5EEC1;
   font-size: 16px;
-  font-weight: 500;
   cursor: pointer;
   font-family: 'Space', sans-serif;
 }
@@ -204,7 +207,6 @@ footer p, #copyright {
   background: #263D41;
   color: #E5EEC1;
   font-size: 16px;
-  font-weight: 500;
   cursor: pointer;
   font-family: 'Machina', sans-serif;
   box-sizing: border-box;
@@ -249,18 +251,18 @@ footer p, #copyright {
 }
 
 #correct-answer {
-  font-weight: bold;
+  font-family: 'SpaceB', sans-serif;
   color: #E5EEC1;
 }
 
 #reponse-text {
   color: #E5EEC1;
-  font-weight: bold;
+  font-family: 'SpaceB', sans-serif;
 }
 
 #score-result {
   color: #E5EEC1;
-  font-weight: bold;
+  font-family: 'SpaceB', sans-serif;
 }
 
 @media (max-width: 600px) {
