@@ -233,7 +233,7 @@ html, body {
   color: #E5EEC1;
   padding: 40px;
   border-radius: 12px;
-  max-width: 200px;
+  max-width: 350px;
   text-align: center;
 }
 
@@ -327,6 +327,10 @@ html, body {
 
   #copyright {
     padding-bottom: 20px;
+  }
+
+  .popup {
+    max-width: 220px;
   }
 
   .popup-title {
