@@ -74,20 +74,20 @@ html, body {
   font-family: 'Machina', sans-serif;
   font-size: 2rem;
   color: #A2D5AC;
-  margin-bottom: 40px;
+  margin: 0px 40px 40px 40px;
 }
 
 .question {
   font-size: 2.6rem;
   font-family: 'SpaceB', sans-serif;
-  margin-bottom: 40px;
+  margin: 0px 40px 40px 40px;
 }
 
 .answer {
   font-size: 1.2rem;
   font-family: 'Space', sans-serif;
   color: #A2D5AC;
-  margin-bottom: 40px;
+  margin: 0px 40px 40px 40px;
 }
 
 .footer {
@@ -280,15 +280,15 @@ footer p, #copyright {
 
   .theme {
     font-size: 1.6rem; 
-    margin-bottom: 20px;
+    margin: 0px 40px 40px 40px;
   }
   .question {
     font-size: 1.8rem; 
-    margin-bottom: 20px;
+    margin: 0px 40px 40px 40px;
   }
   .answer {
     font-size: 1.2rem; 
-    margin-bottom: 20px;
+    margin: 0px 40px 40px 40px;
   }
 
   .header {
@@ -306,6 +306,7 @@ footer p, #copyright {
   .game-container {
     margin-top: -100px; 
     padding: 0px 40px 0px 40px;
+    margin: 0px 40px 0px 40px;
   }
 
   .category-container {
