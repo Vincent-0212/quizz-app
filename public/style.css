@@ -80,7 +80,7 @@ html, body {
 
 .question {
   font-size: 2.6rem;
-  font-weight: bold;
+  font-family: 'SpaceB', sans-serif;
   margin-bottom: 40px;
 }
 
