@@ -21,6 +21,7 @@ h1 {
 
 h2 {
   font-family: 'Space', sans-serif;
+  font-weight: 500;
   font-size: 2rem;
   color: #A2D5AC;
 }
@@ -304,9 +305,8 @@ footer p, #copyright {
   }
 
   .game-container {
-    margin-top: -100px; 
     padding: 0px 40px 0px 40px;
-    margin: 0px 40px 0px 40px;
+    margin: -100px 40px 0px 40px;
   }
 
   .category-container {
@@ -318,7 +318,17 @@ footer p, #copyright {
   .footer {
     padding: 20px 0 0;
   }
+
   #copyright {
     padding: 0px;
+  }
+
+  .popup-title {
+    font-size: 1.4rem;
+    margin: 0px 40px 0px 40px;
+  }
+  
+  .popup-subtitle {
+    font-size: 1rem;
   }
 }
