@@ -1,1423 +1,2501 @@
 [
   {
-    "ID": 204,
+    "Identifiant": 363,
+    "QUESTION": "Comment se nomme l’arbre cosmique dans la mythologie maya, reliant l’infra-monde, le monde terrestre et le ciel ?",
+    "REPONSE": "Le Ceiba",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 362,
+    "QUESTION": "Dans la mythologie slave, quel démon féminin vit dans une cabane sur pattes de poulet et peut être à la fois bienfaisante et malfaisante ?",
+    "REPONSE": "Baba Yaga",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 361,
+    "QUESTION": "Dans la mythologie grecque, qui est la personnification de la Terre, mère des Titans et des Géants ?",
+    "REPONSE": "Gaïa",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 360,
+    "QUESTION": "Dans la mythologie chinoise, quel empereur légendaire est considéré comme le créateur de la civilisation chinoise, inventeur du calendrier et de la médecine ?",
+    "REPONSE": "L’Empereur Jaune",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 359,
+    "QUESTION": "Quel est le nom du dieu polynésien, souvent associé à la création, à la pêche et à la ruse, popularisé par de nombreux mythes à Hawaï et en Polynésie ?",
+    "REPONSE": "Māui",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 358,
+    "QUESTION": "Quel est le nom de la créature mi-femme mi-serpent dans la mythologie grecque, mère notamment de Cerbère et de l’Hydre de Lerne ?",
+    "REPONSE": "Echidna",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 357,
+    "QUESTION": "Dans la mythologie aztèque, quel dieu à face de chien est lié à la mort et accompagne les âmes dans l’au-delà ?",
+    "REPONSE": "Xolotl",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 356,
+    "QUESTION": "Quelle déesse nordique de l’amour et de la fertilité, associée à la magie Seidr, parcourt le ciel dans un char tiré par des chats ?",
+    "REPONSE": "Freya",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 355,
+    "QUESTION": "Dans la mythologie égyptienne, comment appelle-t-on le livre funéraire contenant des formules magiques pour guider l’âme du défunt ?",
+    "REPONSE": "Le Livre des Morts",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 354,
+    "QUESTION": "Quelle figure de la mythologie grecque, roi de l’île de Crète, est devenu juge des morts après sa mort ?",
+    "REPONSE": "Minos",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 353,
+    "QUESTION": "Quel est le terme japonais pour désigner les esprits vengeurs ou maléfiques, souvent décrits dans le folklore nippon ?",
+    "REPONSE": "Les onryō",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 352,
+    "QUESTION": "Dans la mythologie hindoue, quelle déesse guerrière, montante d’un tigre ou d’un lion, combat les démons pour rétablir l’ordre cosmique ?",
+    "REPONSE": "Durga",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 351,
+    "QUESTION": "Quel nom porte le cheval ailé né du sang de Méduse, que Bellérophon monta pour vaincre la Chimère ?",
+    "REPONSE": "Pégase",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 350,
+    "QUESTION": "Quel est le nom du dieu de la mer dans la mythologie romaine, équivalent de Poséidon ?",
+    "REPONSE": "Neptune",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 349,
+    "QUESTION": "Dans la mythologie celtique, quel chaudron sacré est parfois associé à Dagda ou à la quête du Graal dans la littérature arthurienne ?",
+    "REPONSE": "Le Chaudron d’Abondance",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 348,
+    "QUESTION": "Dans la mythologie japonaise, qui est la déesse du Soleil, honorée dans le sanctuaire d’Ise ?",
+    "REPONSE": "Amaterasu",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 347,
+    "QUESTION": "Dans la mythologie romaine, qui est la déesse de la chasse, équivalente d’Artémis chez les Grecs ?",
+    "REPONSE": "Diane",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 346,
+    "QUESTION": "Comment s’appelle la déesse grecque de l’amour et de la beauté, née de l’écume de la mer ?",
+    "REPONSE": "Aphrodite",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 345,
+    "QUESTION": "Dans la mythologie égyptienne, quel dieu à tête de faucon est associé au ciel et à la royauté ?",
+    "REPONSE": "Horus",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 344,
+    "QUESTION": "Quel philosophe et sociologue français, né en 1930, est l’auteur de « La Distinction » et a développé le concept d’habitus ?",
+    "REPONSE": "Pierre Bourdieu",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 343,
+    "QUESTION": "Quel adjectif désigne un terme tiré du nom d’une personne, et plus largement un mot formé à partir d’un nom propre ?",
+    "REPONSE": "Un éponyme",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 342,
+    "QUESTION": "Dans quel pays africain se trouve l’université d’Al Quaraouiyine, considérée comme la plus ancienne université encore en activité au monde ?",
+    "REPONSE": "Au Maroc",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 341,
+    "QUESTION": "Quel historien grec, surnommé « le père de l’histoire », a écrit « Les Histoires » relatant les guerres médiques ?",
+    "REPONSE": "Hérodote",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 340,
+    "QUESTION": "Comment s’appelle la science qui étudie la classification des êtres vivants ?",
+    "REPONSE": "La taxonomie",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 339,
+    "QUESTION": "Quel poète français du XIXᵉ siècle est l’auteur de « Les Fleurs du mal », recueil publié en 1857 ?",
+    "REPONSE": "Charles Baudelaire",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 338,
+    "QUESTION": "Quel terme grec désigne la « ville-État » dans la Grèce antique ?",
+    "REPONSE": "La polis",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 337,
+    "QUESTION": "Quel célèbre peintre néerlandais est l’auteur de toiles comme « La Laitière » et « La Jeune Fille à la perle » ?",
+    "REPONSE": "Johannes Vermeer",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 336,
+    "QUESTION": "Quel philosophe des Lumières est l’auteur de « L’Esprit des lois » ?",
+    "REPONSE": "Montesquieu",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 335,
+    "QUESTION": "Quelle organisation internationale, fondée en 1945, a pour mission de maintenir la paix et la sécurité dans le monde ?",
+    "REPONSE": "L’ONU (Organisation des Nations unies)",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 334,
+    "QUESTION": "Quel est l’inventeur du téléphone, qui en obtint le brevet en 1876 ?",
+    "REPONSE": "Alexander Graham Bell",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 333,
+    "QUESTION": "Dans quel pays du Moyen-Orient se trouve le désert du Néfoud et le Rub al-Khali ?",
+    "REPONSE": "En Arabie saoudite",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 332,
+    "QUESTION": "Quelle est la chaîne montagneuse qui sépare l’Inde de la Chine et comprend l’Everest ?",
+    "REPONSE": "L’Himalaya",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 331,
+    "QUESTION": "Quelle est la plus grande île de la mer Méditerranée ?",
+    "REPONSE": "La Sicile",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 330,
+    "QUESTION": "Quel pays enclavé entre l’Autriche et la Suisse est parfois appelé « le micro-État des Alpes » ?",
+    "REPONSE": "Le Liechtenstein",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 329,
+    "QUESTION": "Quel fleuve traverse la ville de Belgrade et se jette dans la mer Noire ?",
+    "REPONSE": "Le Danube",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 328,
+    "QUESTION": "Quel golfe, entre la Suède et la Finlande, est la partie la plus septentrionale de la mer Baltique ?",
+    "REPONSE": "Le golfe de Botnie",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 327,
+    "QUESTION": "Quel est le nom de la mer qui sépare la péninsule arabique de la Corne de l’Afrique ?",
+    "REPONSE": "La mer Rouge",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 326,
+    "QUESTION": "Quelle île d’Asie du Sud-Est est partagée entre trois pays : la Malaisie, l’Indonésie et Brunei ?",
+    "REPONSE": "Bornéo",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 325,
+    "QUESTION": "Quel lac d’eau douce, en Sibérie, est le plus profond du monde et contient environ 20 % de l’eau douce non gelée sur Terre ?",
+    "REPONSE": "Le lac Baïkal",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 324,
+    "QUESTION": "Quelle vaste région de l’est de la Russie, réputée pour ses hivers très rudes, s’étend de l’Oural à l’océan Pacifique ?",
+    "REPONSE": "La Sibérie",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 323,
+    "QUESTION": "Quel désert s’étend en Mongolie et en Chine et est l’un des plus grands déserts froids du monde ?",
+    "REPONSE": "Le désert de Gobi",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 322,
+    "QUESTION": "Dans quel pays se trouve la région de Transylvanie, célèbre pour la légende de Dracula ?",
+    "REPONSE": "En Roumanie",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 321,
+    "QUESTION": "Quelle chaîne de montagnes forme la frontière naturelle entre la France et l’Espagne ?",
+    "REPONSE": "Les Pyrénées",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 320,
+    "QUESTION": "Quel fleuve, le plus long d’Asie, s’appelle également Chang Jiang en chinois et traverse Shanghai ?",
+    "REPONSE": "Le Yangtsé",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 319,
+    "QUESTION": "Quel détroit sépare l’Espagne du Maroc et relie la mer Méditerranée à l’océan Atlantique ?",
+    "REPONSE": "Le détroit de Gibraltar",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 318,
+    "QUESTION": "Quelle grande île du nord de l’Europe, à l’extrême nord-ouest, est célèbre pour ses paysages volcaniques et ses geysers ?",
+    "REPONSE": "L’Islande",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 317,
+    "QUESTION": "Quel nom donne-t-on aux terres entourées d’eau sur trois côtés, comme l’Espagne ou l’Arabie ?",
+    "REPONSE": "Des péninsules",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 316,
+    "QUESTION": "Quel est le seul continent traversé par l’équateur, le tropique du Cancer et le tropique du Capricorne ?",
+    "REPONSE": "L’Afrique",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 315,
+    "QUESTION": "Comment s’appelle la ligne imaginaire à 0° de longitude, passant près de Londres ?",
+    "REPONSE": "Le méridien de Greenwich",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 314,
+    "QUESTION": "Quel traité signé en 1648 mit fin à la guerre de Trente Ans et réorganisa l’équilibre européen ?",
+    "REPONSE": "Les traités de Westphalie",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 313,
+    "QUESTION": "Quel est le nom de la dynastie régnante en Chine après les Mongols Yuan, de 1368 à 1644, fondée par Hongwu ?",
+    "REPONSE": "La dynastie Ming",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 312,
+    "QUESTION": "Quelle série de conflits opposa Rome à Carthage et inclut le fameux passage des Alpes par Hannibal ?",
+    "REPONSE": "Les guerres puniques",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 311,
+    "QUESTION": "Quelle bataille navale, en 1571, voit la coalition chrétienne de la Sainte-Ligue vaincre la flotte ottomane ?",
+    "REPONSE": "La bataille de Lépante",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 310,
+    "QUESTION": "Quel empire du Moyen-Orient, fondé par Cyrus le Grand, s’étendait de l’Égypte à l’Indus avant d’être conquis par Alexandre le Grand ?",
+    "REPONSE": "L’Empire achéménide (Perse)",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 309,
+    "QUESTION": "Quel « Roi très chrétien », fils de Philippe IV le Bel, est élu empereur latin de Constantinople en 1216 avant de mourir peu après ?",
+    "REPONSE": "Pierre II de Courtenay",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 308,
+    "QUESTION": "Quel aventurier vénitien du XIIIᵉ siècle a laissé un récit de son voyage en Chine, contribuant à la connaissance de l’Asie en Europe ?",
+    "REPONSE": "Marco Polo",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 307,
+    "QUESTION": "Quel texte, promulgué en 1517 par Martin Luther, est à l’origine de la Réforme protestante ?",
+    "REPONSE": "Les 95 thèses",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 306,
+    "QUESTION": "Quel traité de 1713 met fin à la guerre de Succession d’Espagne et réorganise la carte de l’Europe ?",
+    "REPONSE": "Le traité d’Utrecht",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 305,
+    "QUESTION": "Qui fut le principal dirigeant de l’URSS de 1924 à 1953, succédant à Lénine ?",
+    "REPONSE": "Joseph Staline",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 304,
+    "QUESTION": "Quelle civilisation précolombienne est connue pour ses lignes géantes tracées dans le désert péruvien, visibles du ciel ?",
+    "REPONSE": "La civilisation de Nazca",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 303,
+    "QUESTION": "Quel conquistador espagnol a fait la conquête de l’Empire aztèque ?",
+    "REPONSE": "Hernán Cortés",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 302,
+    "QUESTION": "Quel peuple germanique a envahi l’Angleterre au Ve siècle, donnant en partie son nom au pays ?",
+    "REPONSE": "Les Angles",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 301,
+    "QUESTION": "Quel président français est à l’origine de la Ve République ?",
+    "REPONSE": "Charles de Gaulle",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 300,
+    "QUESTION": "Quel roi de France, surnommé « Saint Louis », a régné au XIIIᵉ siècle et est connu pour avoir instauré la « justice royale » sous un chêne à Vincennes ?",
+    "REPONSE": "Louis IX",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 299,
+    "QUESTION": "Quel écrivain argentin, maître de la fiction brève, a écrit « Fictions » et est célèbre pour ses labyrinthes littéraires ?",
+    "REPONSE": "Jorge Luis Borges",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 298,
+    "QUESTION": "Quel sculpteur et peintre suisse-allemand du XXᵉ siècle, dont les œuvres élonguées et filiformes sont très célèbres, a réalisé « L’Homme qui marche » ?",
+    "REPONSE": "Alberto Giacometti",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 297,
+    "QUESTION": "Quel cinéaste suédois est connu pour ses films introspectifs tels que « Le Septième Sceau » ou « Cris et chuchotements » ?",
+    "REPONSE": "Ingmar Bergman",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 296,
+    "QUESTION": "Quel dramaturge espagnol du siècle d’or a écrit plus d’un millier de pièces de théâtre, dont « Fuente Ovejuna » ?",
+    "REPONSE": "Lope de Vega",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 295,
+    "QUESTION": "Quel architecte suisse, naturalisé français, est l’un des fondateurs du mouvement moderne et a formulé « Les Cinq points de l’architecture moderne » ?",
+    "REPONSE": "Le Corbusier",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 294,
+    "QUESTION": "Quel mouvement artistique du XXᵉ siècle rejette la raison et la logique, prônant la spontanéité et l’absurde, incarné par des artistes comme Tristan Tzara et Hans Arp ?",
+    "REPONSE": "Le dadaïsme",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 293,
+    "QUESTION": "Quel terme musical désigne un tempo très rapide ?",
+    "REPONSE": "Presto",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 292,
+    "QUESTION": "Quel cinéaste japonais est connu pour des œuvres telles que « Rashômon » et « Les Sept Samouraïs » ?",
+    "REPONSE": "Akira Kurosawa",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 291,
+    "QUESTION": "Quel terme italien désigne le contraste violent entre la lumière et l’ombre, illustré notamment par Caravage ?",
+    "REPONSE": "Le clair-obscur (chiaroscuro)",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 290,
+    "QUESTION": "Quel écrivain français du XIXᵉ siècle est l’auteur de « Madame Bovary » et « L’Éducation sentimentale » ?",
+    "REPONSE": "Gustave Flaubert",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 289,
+    "QUESTION": "Quel compositeur allemand est l’auteur de « La Passion selon saint Matthieu » et de nombreux concertos brandebourgeois ?",
+    "REPONSE": "Johann Sebastian Bach",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 288,
+    "QUESTION": "Quel courant littéraire français du XVIIᵉ siècle valorise la mesure, la raison et la recherche d’idéal, illustré par Racine, Molière, Boileau ?",
+    "REPONSE": "Le classicisme",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 287,
+    "QUESTION": "Quel célèbre sculpteur florentin de la Renaissance, contemporain de Michel-Ange, est connu pour son « David » en bronze ?",
+    "REPONSE": "Donatello",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 286,
+    "QUESTION": "En musique, comment appelle-t-on la succession d’accords soutenant la mélodie principale ?",
+    "REPONSE": "L’harmonie",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 285,
+    "QUESTION": "Quel écrivain russe est l’auteur de « Crime et Châtiment » ?",
+    "REPONSE": "Fiodor Dostoïevski",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 284,
+    "QUESTION": "Quel peintre espagnol a réalisé les toiles « Les Ménines » et « Les Fileuses » ?",
+    "REPONSE": "Diego Velázquez",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 283,
+    "QUESTION": "Dans le cinéma muet, quel acteur et réalisateur comique est célèbre pour son personnage de vagabond à la moustache et la canne ?",
+    "REPONSE": "Charlie Chaplin",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 282,
+    "QUESTION": "Quel dramaturge français du XVIIᵉ siècle a écrit « Le Tartuffe » et « Le Misanthrope » ?",
+    "REPONSE": "Molière",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 280,
+    "QUESTION": "Quel est le nom du physicien qui a introduit le concept d’« entropie » dans le cadre de la thermodynamique ?",
+    "REPONSE": "Rudolf Clausius",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 279,
+    "QUESTION": "Quel phénomène physique prévoit l’allongement de la longueur d’onde de la lumière émise par un objet qui s’éloigne ?",
+    "REPONSE": "Le décalage vers le rouge",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 278,
+    "QUESTION": "Quel astronome et mathématicien de l’Antiquité a établi le premier modèle héliocentrique connu, aujourd’hui souvent oublié ?",
+    "REPONSE": "Aristarque de Samos",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 277,
+    "QUESTION": "Quelle catégorie de nutriments comprend l’amidon et le glucose ?",
+    "REPONSE": "Les glucides",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 276,
+    "QUESTION": "Quel phénomène explique la déviation d’un objet en rotation rapide (comme une toupie) qui tend à conserver l’orientation de son axe ?",
+    "REPONSE": "L’effet gyroscopique",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 275,
+    "QUESTION": "Comment nomme-t-on la transition de la lumière blanche en un spectre coloré lorsqu’elle traverse un prisme ?",
+    "REPONSE": "La dispersion",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 274,
+    "QUESTION": "Quel principe physique énonce que la pression totale d’un mélange gazeux est la somme des pressions partielles de chaque gaz ?",
+    "REPONSE": "La loi de Dalton",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 273,
+    "QUESTION": "Comment appelle-t-on le changement d’état d’une substance qui passe directement de l’état solide à l’état gazeux ?",
+    "REPONSE": "La sublimation",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 272,
+    "QUESTION": "Quel est le nom de la couche de gaz qui protège la Terre des rayons ultraviolets du Soleil ?",
+    "REPONSE": "La couche d’ozone",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 271,
+    "QUESTION": "Quel phénomène physique explique pourquoi un crayon plongé dans un verre d’eau semble « cassé » à la surface ?",
+    "REPONSE": "La réfraction",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 270,
+    "QUESTION": "En chimie, comment s’appelle la représentation graphique ordonnée de tous les éléments ?",
+    "REPONSE": "Le tableau périodique",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 269,
+    "QUESTION": "Quel est le nom de la plante verte qui sert d’exemple de base pour l’étude de la photosynthèse en SVT ?",
+    "REPONSE": "L’élodée",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 268,
+    "QUESTION": "Dans la mythologie nordique, comment s’appelle le coq qui chante au crépuscule des dieux, marquant le début du Ragnarök ?",
+    "REPONSE": "Fjalar",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 267,
+    "QUESTION": "Dans la mythologie grecque, quel fils de Poséidon et de Thoosa est un cyclope géant vivant en Sicile, rendu célèbre par son épisode avec Ulysse ?",
+    "REPONSE": "Polyphème",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 266,
+    "QUESTION": "Dans la mythologie aztèque, quel dieu à plumes de serpent est créateur du monde et symbole de la connaissance ?",
+    "REPONSE": "Quetzalcóatl",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 265,
+    "QUESTION": "Quel personnage de la mythologie grecque est condamné à faire rouler éternellement un rocher au sommet d’une colline aux Enfers ?",
+    "REPONSE": "Sisyphe",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 264,
+    "QUESTION": "Dans la mythologie hindoue, quel dieu à tête d’éléphant est vénéré pour lever les obstacles et apporter la sagesse ?",
+    "REPONSE": "Ganesh",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 263,
+    "QUESTION": "Dans la mythologie égyptienne, quel dieu à tête d’ibis est associé à la connaissance, l’écriture et la sagesse ?",
+    "REPONSE": "Thot",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 262,
+    "QUESTION": "Dans la mythologie nordique, comment se nomme la demeure des guerriers morts au combat ?",
+    "REPONSE": "Le Valhalla",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 261,
+    "QUESTION": "Dans la mythologie gréco-romaine, quel héros légendaire a tué le Minotaure dans le labyrinthe de Crète ?",
+    "REPONSE": "Thésée",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 260,
+    "QUESTION": "Quel concept philosophique, défendu par Épictète, enseigne que la vertu est la seule véritable source de bonheur ?",
+    "REPONSE": "Le stoïcisme",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 259,
+    "QUESTION": "Quel terme grec désigne la fonction de l’art dramatique qui suscite la terreur et la pitié, permettant de « purger » ces émotions chez le spectateur, selon Aristote ?",
+    "REPONSE": "La catharsis",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 258,
+    "QUESTION": "Comment appelle-t-on la monnaie officielle du Japon ?",
+    "REPONSE": "Le Yen",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 257,
+    "QUESTION": "Combien de joueurs composent une équipe de handball sur le terrain ?",
+    "REPONSE": 7,
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 256,
+    "QUESTION": "Quelle montagne est considérée comme le point culminant de l’Amérique du Nord, située en Alaska ?",
+    "REPONSE": "Le Denali",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 255,
+    "QUESTION": "Dans quel pays se trouve le plateau du Tibet ?",
+    "REPONSE": "En Chine",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 254,
+    "QUESTION": "Quelle grande rivière, la plus longue d’Europe, traverse la Russie et se jette dans la mer Caspienne ?",
+    "REPONSE": "La Volga",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 253,
+    "QUESTION": "Quel traité de 1809, imposé par Napoléon Ier à l’Autriche, a affaibli considérablement les Habsbourg ?",
+    "REPONSE": "Le traité de Schönbrunn",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 252,
+    "QUESTION": "Quel accord de 1555, conclu sous l’égide de Charles Quint, permet à chaque prince du Saint-Empire de choisir la religion de ses sujets ?",
+    "REPONSE": "La paix d’Augsbourg",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 251,
+    "QUESTION": "Quel président américain a proclamé en 1863 l’« émancipation des esclaves » dans les États rebelles durant la guerre de Sécession ?",
+    "REPONSE": "Abraham Lincoln",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 250,
+    "QUESTION": "Comment appelle-t-on la période de l’histoire européenne, du Ve au XVe siècle, qui débute après la chute de l’Empire romain d’Occident ?",
+    "REPONSE": "Le Moyen Âge",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 249,
+    "QUESTION": "Quel explorateur génois, financé par la couronne d’Espagne, est arrivé en Amérique en 1492 ?",
+    "REPONSE": "Christophe Colomb",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 248,
+    "QUESTION": "Quel peintre autrichien, fondateur de la Sécession viennoise, a peint « Le Baiser » en 1908-1909 ?",
+    "REPONSE": "Gustav Klimt",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 247,
+    "QUESTION": "Quel compositeur français du début du XXᵉ siècle est connu pour son style impressionniste en musique, notamment avec l’œuvre « La Mer » ?",
+    "REPONSE": "Claude Debussy",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 246,
+    "QUESTION": "Quel dramaturge français du XVIIᵉ siècle est l’auteur de pièces classiques comme Le Cid et Horace ?",
+    "REPONSE": "Pierre Corneille",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 245,
+    "QUESTION": "En biologie moléculaire, comment appelle-t-on le mécanisme qui régule l’expression des gènes en fonction de facteurs environnementaux et de signaux internes ?",
+    "REPONSE": "La régulation transcriptionnelle",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 244,
+    "QUESTION": "Quel scientifique allemand a introduit la notion de quantum d’action qui a révolutionné la physique au début du XXᵉ siècle ?",
+    "REPONSE": "Max Planck",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 242,
+    "QUESTION": "Quel physicien italien est célèbre pour ses travaux sur la chute des corps et la lunette astronomique au XVIIᵉ siècle ?",
+    "REPONSE": "Galilée",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 241,
+    "QUESTION": "En chimie, quelle méthode permet de séparer les constituants d’un mélange homogène en les faisant bouillir puis condenser successivement ?",
+    "REPONSE": "La distillation",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 240,
+    "QUESTION": "Dans la mythologie hindoue, qui est le dieu de la préservation, souvent représenté avec une peau bleue et tenant une conque et un disque ?",
+    "REPONSE": "Vishnou",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 239,
+    "QUESTION": "Quel est le nom du chien à trois têtes qui garde l’entrée des Enfers dans la mythologie grecque ?",
+    "REPONSE": "Cerbère",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 238,
+    "QUESTION": "Dans la mythologie grecque, quelle divinité incarne la discorde et déclenche indirectement la guerre de Troie en lançant la « pomme de la discorde » ?",
+    "REPONSE": "Éris",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 236,
+    "QUESTION": "Dans l’épopée mésopotamienne, quel héros part à la recherche de l’immortalité après la mort de son ami Enkidu ?",
+    "REPONSE": "Gilgamesh",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 235,
+    "QUESTION": "Quel est le nom de l’arbre-monde dans la mythologie nordique, reliant les différents mondes ?",
+    "REPONSE": "Yggdrasil",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 234,
+    "QUESTION": "Dans la mythologie égyptienne, quel dieu à tête de chacal est lié à la momification et à la vie après la mort ?",
+    "REPONSE": "Anubis",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 233,
+    "QUESTION": "Quel philosophe allemand a écrit « Ainsi parlait Zarathoustra » ?",
+    "REPONSE": "Friedrich Nietzsche",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 232,
+    "QUESTION": "Quel terme désigne la forme de gouvernement où le chef de l’État est un monarque héréditaire, mais où le pouvoir du souverain est limité par une constitution ?",
+    "REPONSE": "Une monarchie constitutionnelle",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 231,
+    "QUESTION": "Quel prix littéraire français, créé en 1903, est l’un des plus prestigieux et se remet chaque année au mois de novembre ?",
+    "REPONSE": "Le prix Goncourt",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 230,
+    "QUESTION": "Comment appelle-t-on la discipline qui étudie les origines des mots et leurs évolutions au fil du temps ?",
+    "REPONSE": "L’étymologie",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 229,
+    "QUESTION": "Quel auteur de bandes dessinées belge est à l’origine du personnage de Tintin ?",
+    "REPONSE": "Hergé",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 228,
+    "QUESTION": "Quel est l’instrument de musique à cordes emblématique de l’Espagne, utilisé notamment dans le flamenco ?",
+    "REPONSE": "La guitare",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 227,
+    "QUESTION": "Quelle mer est bordée par la Jordanie, Israël et la Cisjordanie et est connue pour sa forte salinité ?",
+    "REPONSE": "La mer Morte",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 226,
+    "QUESTION": "Quel détroit sépare l’Asie et l’Amérique du Nord ?",
+    "REPONSE": "Le détroit de Béring",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 225,
+    "QUESTION": "Quel massif montagneux s’étend sur plus de 7 000 km le long de la côte ouest de l’Amérique du Sud ?",
+    "REPONSE": "La cordillère des Andes",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 224,
+    "QUESTION": "Quel pays d’Amérique centrale est traversé par le canal de Panama ?",
+    "REPONSE": "Le Panama",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 223,
+    "QUESTION": "Quelle est la capitale du Canada ?",
+    "REPONSE": "Ottawa",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 222,
+    "QUESTION": "Quel traité de 843 partage l’Empire carolingien entre les petits-fils de Charlemagne ?",
+    "REPONSE": "Le traité de Verdun",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 221,
+    "QUESTION": "Durant quelle guerre les États-Unis sont-ils intervenus en Asie du Sud-Est contre le régime communiste du Nord ?",
+    "REPONSE": "La guerre du Vietnam",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 220,
+    "QUESTION": "Quel empire s’est effondré en 476 apr. J.-C., marquant traditionnellement la fin de l’Antiquité en Europe ?",
+    "REPONSE": "L’Empire romain",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 219,
+    "QUESTION": "Quel est le nom de la route commerciale qui reliait l’Europe à l’Asie et fut empruntée par Marco Polo ?",
+    "REPONSE": "La route de la Soie",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 218,
+    "QUESTION": "Quel événement majeur de la Révolution française a eu lieu le 14 juillet 1789 ?",
+    "REPONSE": "La prise de la Bastille",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 217,
+    "QUESTION": "Au Moyen Âge, comment appelle-t-on la guerre qui opposa la France et l’Angleterre de 1337 à 1453 ?",
+    "REPONSE": "La guerre de 100 ans",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 216,
+    "QUESTION": "Quel courant architectural du XXᵉ siècle, fondé par Walter Gropius, a profondément influencé le design et l’art modernes ?",
+    "REPONSE": "Le Bauhaus",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 215,
+    "QUESTION": "Quel tableau de Pablo Picasso, réalisé en 1937, dénonce les horreurs de la guerre civile espagnole ?",
+    "REPONSE": "Guernica",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 214,
+    "QUESTION": "Quel grand architecte italien de la Renaissance est célèbre pour avoir conçu la basilique Saint-Pierre de Rome ?",
+    "REPONSE": "Donato Bramante",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 213,
+    "QUESTION": "Dans quel pays est né le compositeur Wolfgang Amadeus Mozart ?",
+    "REPONSE": "En Autriche",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 212,
+    "QUESTION": "Quel scientifique est à l’origine de la théorie de la dérive des continents au début du XXᵉ siècle ?",
+    "REPONSE": "Alfred Wegener",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 211,
+    "QUESTION": "Comment appelle-t-on l’ensemble des réactions chimiques se produisant dans une cellule et qui permettent de produire de l’énergie ?",
+    "REPONSE": "Le métabolisme",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 209,
+    "QUESTION": "En physique, quel est le nom de la constante qui relie la force entre deux charges électriques à la distance qui les sépare ?",
+    "REPONSE": "La constante de Coulomb",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 208,
+    "QUESTION": "Quel chimiste français a introduit la notion d’oxygène et est considéré comme le « père de la chimie moderne » ?",
+    "REPONSE": "Antoine Lavoisier",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 207,
+    "QUESTION": "En biologie, comment appelle-t-on les cellules chargées de transporter l’oxygène dans le sang humain ?",
+    "REPONSE": "Les globules rouges",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 206,
+    "QUESTION": "En chimie, quel nom porte la liaison où deux atomes partagent deux électrons ?",
+    "REPONSE": "Une liaison covalente",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 205,
+    "QUESTION": "Quel film de Jacques Audiard sorti en 2009 met en scène Tahar Rahim dans le rôle d’un détenu ?",
+    "REPONSE": "Un Prophète",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 204,
     "QUESTION": "Quel album de rock sortie en 1991 se termine pas le morceau “Something in the way” ?",
     "REPONSE": "Nevermind, Nirvana",
     "DIFFICULTE": "FACILE",
     "CATEGORIE": "ARTL"
   },
   {
-    "ID": 200,
-    "QUESTION": "Quel groupe de rock a sorti “Satisfaction” ou “Paint it black” ?",
-    "REPONSE": "Les Rolling Stones",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 198,
-    "QUESTION": "Comment s’appelle l’album le plus vendu de Pink Floyd ?",
-    "REPONSE": "The Dark Side of the Moon",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 194,
-    "QUESTION": "Quel mention un bachelier obtient-il avec une moyenne de 17 sur 20 ?",
-    "REPONSE": "Mention très bien",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 193,
-    "QUESTION": "Quelle unité de puissance a pour symbole le W ?",
-    "REPONSE": "Le Watt",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 192,
-    "QUESTION": "Quelle ville se situe à proximité du Futuroscope ?",
-    "REPONSE": "Poitiers",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 188,
-    "QUESTION": "En Allemagne, quelle femme a précédé Olaf Scholz au poste de chancelier ?",
-    "REPONSE": "Angela Merkel",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 187,
-    "QUESTION": "En géométrie, que adjectif qualifie un angle entre 90 et 180 degrés ?",
-    "REPONSE": "Obtus",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 180,
-    "QUESTION": "Comment s’appelle l’équivalent du tour de France en Italie ?",
-    "REPONSE": "Le tour d’Italie ou le Giro",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 179,
-    "QUESTION": "Comment s’appelait la dernière Reine de France ?",
-    "REPONSE": "Marie Antoinette",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 177,
-    "QUESTION": "Quel mouvement artistique est associé à Salvador Dalí ?",
-    "REPONSE": "Le surréalisme",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 164,
-    "QUESTION": "Quel groupe de musique à sorti 4 albums studio dont Homework en 1997",
-    "REPONSE": "Daft Punk",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 161,
-    "QUESTION": "Qui a écrit Le Train Bleu",
-    "REPONSE": "Agatha Christie",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 159,
-    "QUESTION": "Dans quelle ville peut on admirer le Palais des Papes ?",
-    "REPONSE": "Avignon, France",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 157,
-    "QUESTION": "Dans quel film culte de 1975 trouve-t-on la réplique \"On va avoir besoin d’un plus gros bateau\" ?",
-    "REPONSE": "Les Dents de la Mer",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 156,
-    "QUESTION": "Quel film de Stanley Kubrick met en scène un soldat nommé Baleine pendant la guerre du Vietnam ?",
-    "REPONSE": "Full Metal Jacket",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 155,
-    "QUESTION": "Quelle actrice a joué le rôle principal dans Kill Bill, réalisé par Quentin Tarantino ?",
-    "REPONSE": "Uma Thurman",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 154,
-    "QUESTION": "Quel film de science-fiction de 1982, réalisé par Ridley Scott, met en scène des réplicants et un chasseur de primes ?",
-    "REPONSE": "Blade Runner",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 153,
-    "QUESTION": "Quelle franchise de jeux vidéo est célèbre pour ses abris anti-nucléaires, ses radiations et son style inspiré des années 1950 ?",
-    "REPONSE": "Fallout",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 152,
-    "QUESTION": "Dans Pokémon, quel est le nom du professeur qui remet le premier Pokémon au joueur dans les premières générations ?",
-    "REPONSE": "Professeur Chen",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 151,
-    "QUESTION": "Quel est le studio de développement derrière les jeux The Witcher 3 et Cyberpunk 2077 ?",
-    "REPONSE": "CD Projekt Red",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 150,
-    "QUESTION": "Dans quel jeu de tir à la première personne incarne-t-on un soldat combattant des extraterrestres appelés les Covenants ?",
-    "REPONSE": "Halo",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 148,
-    "QUESTION": "Quelle est la force qui permet à un avion de rester en l’air en s’opposant à la gravité ?",
-    "REPONSE": "La portance",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 147,
-    "QUESTION": "Quel est le nom de l’avion supersonique de ligne qui reliait Paris à New York en moins de 4 heures ?",
-    "REPONSE": "Le Concorde",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 146,
-    "QUESTION": "Quel est le nom du plus grand avion commercial jamais construit, capable de transporter plus de 800 passagers ?",
-    "REPONSE": "Airbus A380",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 145,
-    "QUESTION": "Quel groupe français est spécialisé dans les produits laitiers et possède des marques comme Actimel et Evian ?",
-    "REPONSE": "Danone",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 144,
-    "QUESTION": "Quelle entreprise américaine est le plus grand détaillant de supermarchés au monde ?",
-    "REPONSE": "Walmart",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 143,
-    "QUESTION": "Quel conglomérat sud-coréen est connu pour ses smartphones, téléviseurs et appareils électroménagers ?",
-    "REPONSE": "Samsung",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 141,
-    "QUESTION": "Quelle entreprise est le premier constructeur automobile mondial en termes de production ?",
-    "REPONSE": "Toyota",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 139,
-    "QUESTION": "Quel est le premier long-métrage entièrement en images de synthèse produit par Pixar en 1995 ?",
-    "REPONSE": "Toy Story",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 138,
-    "QUESTION": "Dans Le Parrain, quel acteur incarne le jeune Vito Corleone dans le deuxième volet de la trilogie ?",
-    "REPONSE": "Robert De Niro",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 137,
-    "QUESTION": "Dans quel film culte de 1979 trouve-t-on la réplique \"Dans l’espace, personne ne vous entend crier\" ?",
-    "REPONSE": "Alien, le huitième passager",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 136,
-    "QUESTION": "Quel film de Stanley Kubrick met en scène une intelligence artificielle nommée HAL 9000 ?",
-    "REPONSE": "2001, l’Odyssée de l’espace",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 135,
-    "QUESTION": "Quel artiste est considéré comme le père de l’art optique et cinétique, connu pour ses illusions d’optique colorées ?",
-    "REPONSE": "Victor Vasarely",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 134,
-    "QUESTION": "Quel mouvement artistique du XXe siècle est connu pour ses formes géométriques et ses couleurs vives, notamment avec Pablo Picasso ?",
-    "REPONSE": "Le cubisme",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 133,
-    "QUESTION": "Dans quelle ville peut-on voir la fresque La Cène, peinte par Léonard de Vinci ?",
-    "REPONSE": "Milan",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 132,
-    "QUESTION": "Quel sculpteur français a réalisé Le Penseur ?",
-    "REPONSE": "Auguste Rodin",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 131,
-    "QUESTION": "Quel célèbre détective créé par Arthur Conan Doyle est connu pour sa logique et son flair infaillible ?",
-    "REPONSE": "Sherlock Holmes",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 130,
-    "QUESTION": "Quel écrivain français a écrit Les Misérables et Notre-Dame de Paris ?",
-    "REPONSE": "Victor Hugo",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 127,
-    "QUESTION": "Quel est le nom de l’épée légendaire du roi Arthur, souvent associée à la légende de la Table ronde ?",
-    "REPONSE": "Excalibur",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 126,
-    "QUESTION": "Quelle femme a ouvert une boîte légendaire contenant tous les maux de l’humanité, selon la mythologie grecque ?",
-    "REPONSE": "Pandore",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 124,
-    "QUESTION": "Dans la mythologie grecque, quel titan a donné le feu aux hommes ?",
-    "REPONSE": "Prométhée",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 123,
-    "QUESTION": "Quel est le nom du dieu nordique de la ruse et de la tromperie, connu pour ses nombreuses métamorphoses ?",
-    "REPONSE": "Loki",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 122,
-    "QUESTION": "Quel dieu romain est associé à la guerre et est l’équivalent d’Arès chez les Grecs ?",
-    "REPONSE": "Mars",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 120,
-    "QUESTION": "Quel est le nom du fleuve des Enfers dans lequel Achille a été plongé pour devenir invincible ?",
-    "REPONSE": "Le Styx",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 119,
-    "QUESTION": "Quel est le nom du dieu égyptien des morts et de l’au-delà, souvent représenté avec une tête de chacal ?",
-    "REPONSE": "Anubis",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 118,
-    "QUESTION": "Quel héros grec a tué le Minotaure dans le labyrinthe de Crète ?",
-    "REPONSE": "Thésée",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 117,
-    "QUESTION": "Dans la mythologie nordique, quel est le nom du marteau de Thor ?",
-    "REPONSE": "Mjöllnir",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 116,
-    "QUESTION": "Dans la mythologie grecque, comment s’appelle le dieu de la mer et des eaux ?",
-    "REPONSE": "Poséidon",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 115,
-    "QUESTION": "Dans la mythologie grecque, comment s’appelle la déesse de la chasse ?",
-    "REPONSE": "Artemis",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 114,
-    "QUESTION": "Dans la mythologie grecque, comment s’appelle la déesse de la guerre ?",
-    "REPONSE": "Athéna",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 112,
-    "QUESTION": "Quelle est la capitale de la Nouvelle Zélande ?",
-    "REPONSE": "Wellington",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 111,
-    "QUESTION": "Quelle est la capitale de la Suisse ?",
-    "REPONSE": "Berne",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 110,
-    "QUESTION": "Quel est le plus haut sommet d’Afrique ?",
-    "REPONSE": "Le Kilimanjaro",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 108,
-    "QUESTION": "Dans quel pays se trouve le Machu Picchu ?",
-    "REPONSE": "Au Pérou",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 107,
-    "QUESTION": "Quelle est la capitale de l’Afrique du Sud ?",
-    "REPONSE": "Pretoria",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 106,
-    "QUESTION": "Quelle est la capitale de l’Australie ?",
-    "REPONSE": "Camberra",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 105,
-    "QUESTION": "Dans quelle ville s’est déroulée la COP21 en 2015 ?",
-    "REPONSE": "Paris",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 102,
-    "QUESTION": "Quel est le plus long fleuve du monde ?",
-    "REPONSE": "L’Amazone",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 100,
-    "QUESTION": "Quel est le jeu vidéo le plus vendu au monde ?",
-    "REPONSE": "Minecraft",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 96,
-    "QUESTION": "Quelles sont les lettres utilisées pour représenter les 4 types de nucléotides sur un brin d’ADN ?",
-    "REPONSE": "A-T-C-G",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 94,
-    "QUESTION": "Combien y a-t-il de fantômes dans le premier jeux vidéo PAC MAN ?",
-    "REPONSE": 4,
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 86,
-    "QUESTION": "Quel dieu principal de la mythologie nordique est souvent représenté avec un œil en moins et un corbeau sur chaque épaule ?",
-    "REPONSE": "Odin",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 83,
-    "QUESTION": "Qui était surnommé le Roi Soleil ?",
-    "REPONSE": "Louis XIV",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 82,
-    "QUESTION": "Qui a dirigé l’URSS de 1990 à 1991 ?",
-    "REPONSE": "Mikhaïl Gorbatchev",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 81,
-    "QUESTION": "Qui a été nommé président de la fédération de Russie à la chute de l’URSS ?",
-    "REPONSE": "Boris Eltsine",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 80,
-    "QUESTION": "Quel dirigeant athénien est souvent considéré comme l'un des principaux artisans de la démocratie grecque antique ?",
-    "REPONSE": "Périclès",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 78,
-    "QUESTION": "Que signifie le sigle CH que l’on peut trouver sur les plaques d’immatriculation suisse ?",
-    "REPONSE": "Confédération Helvétique",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 77,
-    "QUESTION": "Dans quelle pays se trouve l'île de Bali ?",
-    "REPONSE": "L’indonésie",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 76,
-    "QUESTION": "Quel sommet culmine à 8849 m d’altitude ?",
-    "REPONSE": "L’Everest",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 75,
-    "QUESTION": "Quel sommet culmine à 4809 m d’altitude ?",
-    "REPONSE": "Le Mont Blanc",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 74,
-    "QUESTION": "En quelle année l’Homme a t-il marché pour la première fois sur la Lune ?",
-    "REPONSE": 1969,
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 73,
-    "QUESTION": "En quelle année s’est instauré la première république ?",
-    "REPONSE": 1792,
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 72,
-    "QUESTION": "En quelle année Napoléon 1er a t-il été sacré Empereur ?",
-    "REPONSE": 1804,
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 71,
-    "QUESTION": "En quelle année a eu lieu l’Hégire ?",
-    "REPONSE": 622,
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 70,
-    "QUESTION": "En quelle année les Etats-unis ont-ils frappé nucléairement le Japon ?",
-    "REPONSE": 1946,
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 69,
-    "QUESTION": "En quelle année est tombé le mur de Berlin ?",
-    "REPONSE": 1989,
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 68,
-    "QUESTION": "Quelle bataille s’est achevée le 18 décembre 1916 ?",
-    "REPONSE": "La bataille de Verdun",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 67,
-    "QUESTION": "Quelle célèbre bataille s’est déroulée en -52 avant JC ?",
-    "REPONSE": "La bataille d’Alésia",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 50,
-    "QUESTION": "Quelle famille de substances comprend la morphine, la codéine et le fentanyl, et agit en se fixant sur des récepteurs spécifiques du cerveau ?",
-    "REPONSE": "Les opioïdes",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 49,
-    "QUESTION": "Combien y a t il de planètes dans le système solaire",
-    "REPONSE": 8,
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 48,
-    "QUESTION": "Comment se nomme l’étoile la plus proche du système solaire ?",
-    "REPONSE": "Proxima du Centaure",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 46,
-    "QUESTION": "Quel ensemble de tissus biologiques permet la transmission des informations entre le cerveau et le reste du corps ?",
-    "REPONSE": "Le système nerveux",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 47,
-    "QUESTION": "Quelle forme d’énergie est produite par la fission des atomes dans une centrale spécifique ?",
-    "REPONSE": "L’énergie nucléaire",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 45,
-    "QUESTION": "Quel est le nom du premier satellite artificiel envoyé en orbite ?",
-    "REPONSE": "Spoutnik 1",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 44,
-    "QUESTION": "Quel processus permet aux plantes de convertir la lumière du soleil en énergie utilisable ?",
-    "REPONSE": "La photosynthèse",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 42,
-    "QUESTION": "Quel physicien français a donné son nom à une unité de mesure de l’intensité électrique ?",
-    "REPONSE": "André-Marie Ampère",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 43,
-    "QUESTION": "Quel physicien italien a inventé la pile électrique ?",
-    "REPONSE": "Alessandro Volta",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 41,
-    "QUESTION": "Quel est le nom de la théorie complémentaire à la relativité générale d’Einstein ?",
-    "REPONSE": "La relativité restreinte",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 39,
-    "QUESTION": "Comment appelle t-on une planète composée essentiellement de minéraux et de métaux ?",
-    "REPONSE": "Tellurique",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 40,
-    "QUESTION": "Quel scientifique a théorisé les lois de la gravitation universelle ?",
-    "REPONSE": "Isaac Newton",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 10,
-    "QUESTION": "Quel est le symbole chimique de l’iode ?",
-    "REPONSE": "I",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 9,
-    "QUESTION": "Quel est le symbole chimique du chlore ?",
-    "REPONSE": "Cl",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 8,
-    "QUESTION": "Quel est le symbole chimique du lithium ?",
-    "REPONSE": "Li",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 7,
-    "QUESTION": "Quel est le symbole chimique du sodium ?",
-    "REPONSE": "Na",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 6,
-    "QUESTION": "Quel est le symbole chimique du carbone ?",
-    "REPONSE": "C",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 5,
-    "QUESTION": "Quel est le symbole chimique du magnésium ?",
-    "REPONSE": "Mg",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 4,
-    "QUESTION": "Quel est le symbole chimique de l’azote ?",
-    "REPONSE": "N",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 3,
-    "QUESTION": "Quel est le symbole chimique de l’oxygène ?",
-    "REPONSE": "O",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 2,
-    "QUESTION": "Quel est le symbole chimique de l’hydrogène ?",
-    "REPONSE": "H",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 1,
-    "QUESTION": "Quel est le symbole chimique du potassium ?",
-    "REPONSE": "K",
-    "DIFFICULTE": "FACILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 202,
-    "QUESTION": "Quel groupe a sorti “Rock the Casbah” en 1982 ?",
-    "REPONSE": "The Clash",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 201,
-    "QUESTION": "Comment se nomme le guitariste des Rolling Stones ?",
-    "REPONSE": "Keith Richards",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 197,
-    "QUESTION": "Quel groupe britannique à sorti “Welcome to the Machine” en 1975 ?",
-    "REPONSE": "Pink Floyd",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 196,
-    "QUESTION": "Quel est le nom du célèbre grand magasin de luxe situé à Londres, connu pour son architecture emblématique et ses produits haut de gamme ?",
-    "REPONSE": "Harrods",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 191,
-    "QUESTION": "Combien la ville de Paris compte t-elle d’aéroports ?",
-    "REPONSE": 3,
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 190,
-    "QUESTION": "Quel fruit rouge est la spécialité de Plougastel ?",
-    "REPONSE": "La fraise",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 189,
-    "QUESTION": "Selon la légende, quel animal a allaité Rémus et Romulus, les fondateurs de Rome ?",
-    "REPONSE": "Une louve",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 186,
-    "QUESTION": "Qui a été le premier président des Etats-Unis ?",
-    "REPONSE": "George Washington",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 183,
-    "QUESTION": "Quel grand maître de l’impressionnisme à fini sa vie à Giverny",
-    "REPONSE": "Claude Monnet",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 181,
-    "QUESTION": "Quel spécialité culinaire est préparé à base d’oeufs de muge séché ?",
-    "REPONSE": "La poutargue",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 178,
-    "QUESTION": "Comment s’appelle le célèbre tableau de René Magritte représentant une pipe ?",
-    "REPONSE": "La trahison des images",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 175,
-    "QUESTION": "Dans quelle ville espagnole se trouve le Théâtre-Musée Dalí, conçu par l’artiste lui-même ?",
-    "REPONSE": "Figueras",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 173,
-    "QUESTION": "Dans quelle période artistique de Picasso trouve-t-on des œuvres aux tons majoritairement bleus, marquées par la mélancolie ?",
-    "REPONSE": "La période bleue",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 172,
-    "QUESTION": "Quel peilntre néerlandais de la Renaissance est l’auteur du célèbre triptyque Le Jardin des Délices ?",
-    "REPONSE": "Hiéronymus Bosch",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 170,
-    "QUESTION": "Quel peintre née en 1869 est un des pionniers du fauvisme ?",
-    "REPONSE": "Henri Matisse",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 169,
-    "QUESTION": "Quel tableau peut on admirer en face de la Joconde au Louvre ?",
-    "REPONSE": "Les Noces de Cana, Paul Véronèse",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 168,
-    "QUESTION": "Qui a écrit le roman \"L’amour Ouf” ?",
-    "REPONSE": "Neville Thompson",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 163,
-    "QUESTION": "Parmi les pays voisins du Suriname, lequel a la plus grande superficie ?",
-    "REPONSE": "Le Brésil",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 162,
-    "QUESTION": "Quelle famille habite au 742 Terrace Evergreen ?",
-    "REPONSE": "Les Simpsons",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 160,
-    "QUESTION": "Quel est le plus vieux pont de Paris ?",
-    "REPONSE": "Le pont 9",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 158,
-    "QUESTION": "Quelle est la plus petite des trois pyramides de Gizeh ?",
-    "REPONSE": "La pyramide de Mykérinos",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 142,
-    "QUESTION": "Dans quelle ville se trouve le siège social de Coca-Cola ?",
-    "REPONSE": "Atlanta, États-Unis",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 140,
-    "QUESTION": "Quel philosophe grec a été le maître d’Alexandre le Grand ?",
-    "REPONSE": "Aristote",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 128,
-    "QUESTION": "Quelle créature mythologique a la tête de lion, le corps de chèvre et une queue de serpent ?",
-    "REPONSE": "La Chimère",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 125,
-    "QUESTION": "Quel est le nom du roi de l’Atlantide dans la mythologie grecque, souvent associé à un continent englouti ?",
-    "REPONSE": "Atlas",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 121,
-    "QUESTION": "Dans la mythologie nordique, comment s’appelle le loup gigantesque destiné à tuer Odin lors du Ragnarök ?",
-    "REPONSE": "Fenrir",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 113,
-    "QUESTION": "Dans la mythologie grecque, comment s’appelle le dieu du vin ?",
-    "REPONSE": "Dionysos",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 109,
-    "QUESTION": "Avec le Paraguay, quel est le deuxième pays d’Amérique du Sud à ne pas avoir accès à l’océan ?",
-    "REPONSE": "La Bolivie",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 103,
-    "QUESTION": "Quelle est la capitale de la Mongolie",
-    "REPONSE": "Oulan-Bator",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 101,
-    "QUESTION": "Qui a  peint le tableau “Le Verrou” ?",
-    "REPONSE": "Jean-Honoré Fragonard",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "ARTL"
-  },
-  {
-    "ID": 99,
-    "QUESTION": "Quel éditeur de logiciels, fondé en 1982, est célèbre pour ses outils de conception graphique, d’édition vidéo et de gestion de documents PDF ?",
-    "REPONSE": "Adobe",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 98,
-    "QUESTION": "Quel domaine des Enfers grecs, gouverné par Hadès, est réservé aux héros et aux âmes ayant mené une vie exemplaire ?",
-    "REPONSE": "Les Champs Élysées",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 97,
-    "QUESTION": "Quelle stèle, découverte en 1799 et contenant un même texte en trois écritures différentes, a joué un rôle clé dans le déchiffrement des hiéroglyphes ?",
-    "REPONSE": "La pierre de Rosette",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 95,
-    "QUESTION": "Quelle fête juive, célébrant la libération des Hébreux d’Égypte, a inspiré une fête chrétienne marquant la résurrection de Jésus ?",
-    "REPONSE": "Pessa'h",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "CULT"
-  },
-  {
-    "ID": 93,
-    "QUESTION": "Combien de président a compté la quatrième république ?",
-    "REPONSE": "2 (Vincent Auriol & René Coty)",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 92,
-    "QUESTION": "Quel dirigeant des Etats Unis à inspiré le nom de l’ours en peluche “Teddy Bear” ?",
-    "REPONSE": "Théodore Roosevelt",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 90,
-    "QUESTION": "Quel a été le premier Roi des Carolingiens ?",
-    "REPONSE": "Pépin le Bref",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 89,
-    "QUESTION": "Quel a été le premier Roi des Mérovingiens ?",
-    "REPONSE": "Clovis Ier",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 88,
-    "QUESTION": "Quel a été le dernier Roi des français ?",
-    "REPONSE": "Louis Philippe Ier",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 87,
-    "QUESTION": "Quel a été le premier Empereur romain ?",
-    "REPONSE": "Auguste Ier",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "HIST"
-  },
-  {
-    "ID": 85,
-    "QUESTION": "Officiellement, combien de dieux siègent au mont Olympe ?",
-    "REPONSE": 14,
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 84,
-    "QUESTION": "Quel dieu grec est associé à Mercure ?",
-    "REPONSE": "Hermès",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "MYTH"
-  },
-  {
-    "ID": 79,
-    "QUESTION": "Quels sont les 2 principaux affluents du Nil ?",
-    "REPONSE": "Le Nil Bleu et le Nil Blanc",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 61,
-    "QUESTION": "Quelle famille de substances comprend la morphine, la codéine et le fentanyl, et agit en se fixant sur des récepteurs spécifiques du cerveau ?",
-    "REPONSE": "Les opioïdes",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 60,
-    "QUESTION": "Quel trouble de la vision est causé par une anomalie ou une absence des cônes sensibles au rouge, au vert ou au bleu dans la rétine ?",
-    "REPONSE": "Le Daltonisme",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 59,
-    "QUESTION": "Quel scientifique a démontré que l'univers est en expansion grâce à ses observations des galaxies lointaines ?",
-    "REPONSE": "Edwin Hubble",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 58,
-    "QUESTION": "Quel type de cellule ne possède pas de noyau et est caractéristique des bactéries ?",
-    "REPONSE": "Procaryote",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 57,
-    "QUESTION": "Quel scientifique est connu pour la théorisation du principe d’incertitude ?",
-    "REPONSE": "Werner Heisenberg",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 56,
-    "QUESTION": "Quel astronaute français est connu pour son rôle dans la réparation du télescope spatial Hubble ?",
-    "REPONSE": "Jean-François Clervoy",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 55,
-    "QUESTION": "Quel est le nom du premier satellite envoyé en orbite par la France ?",
-    "REPONSE": "Astérix",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 54,
-    "QUESTION": "Quelle molécule fournit l'énergie nécessaire aux processus cellulaires comme la contraction musculaire ou la synthèse de molécules ?",
-    "REPONSE": "L’adénosine triphosphate (ATP)",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 53,
-    "QUESTION": "Comment s'appelle la branche de la science qui étudie les relations entre les phénomènes thermiques et mécaniques ?",
-    "REPONSE": "La thermodynamique",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 52,
-    "QUESTION": "Qui a développé la théorie de l'électromagnétisme, posant les bases des communications modernes comme la radio et les télécommunications ?",
-    "REPONSE": "James Clerk Maxwell",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 51,
-    "QUESTION": "En quelle année Einstein a-t-il établi la théorie de la relativité générale ?",
-    "REPONSE": 1915,
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 28,
-    "QUESTION": "Quel élément chimique a pour symbole U ?",
-    "REPONSE": "Uranium",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 26,
-    "QUESTION": "Quel élément chimique a pour symbole As ?",
-    "REPONSE": "Arsenic",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 27,
-    "QUESTION": "Quel élément chimique a pour symbole Ir ?",
-    "REPONSE": "Iridium",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 25,
-    "QUESTION": "Quel élément chimique a pour symbole Fe ?",
-    "REPONSE": "Fer",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 24,
-    "QUESTION": "Quel élément chimique a pour symbole Pb ?",
-    "REPONSE": "Plomb",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 23,
-    "QUESTION": "Quel élément chimique a pour symbole Au ?",
-    "REPONSE": "Or",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 22,
-    "QUESTION": "Quel élément chimique a pour symbole Pt ?",
-    "REPONSE": "Platine",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 21,
-    "QUESTION": "Quel élément chimique a pour symbole Ar ?",
-    "REPONSE": "Argon",
-    "DIFFICULTE": "NORMAL",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 203,
+    "Identifiant": 203,
     "QUESTION": "Quel créateur a révolutionné la joaillerie au début du XXe siècle avant de se consacrer à l’art du verre et du cristal ?",
     "REPONSE": "René Lalique",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "ARTL"
   },
   {
-    "ID": 199,
+    "Identifiant": 202,
+    "QUESTION": "Quel groupe a sorti “Rock the Casbah” en 1982 ?",
+    "REPONSE": "The Clash",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 201,
+    "QUESTION": "Comment se nomme le guitariste des Rolling Stones ?",
+    "REPONSE": "Keith Richards",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 200,
+    "QUESTION": "Quel groupe de rock a sorti “Satisfaction” ou “Paint it black” ?",
+    "REPONSE": "Les Rolling Stones",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 199,
     "QUESTION": "De quel groupe Syd Barrett est il un ancien membre ?",
     "REPONSE": "Pink Floyd",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "ARTL"
   },
   {
-    "ID": 195,
+    "Identifiant": 198,
+    "QUESTION": "Comment s’appelle l’album le plus vendu de Pink Floyd ?",
+    "REPONSE": "The Dark Side of the Moon",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 197,
+    "QUESTION": "Quel groupe britannique à sorti “Welcome to the Machine” en 1975 ?",
+    "REPONSE": "Pink Floyd",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 196,
+    "QUESTION": "Quel est le nom du célèbre grand magasin de luxe situé à Londres, connu pour son architecture emblématique et ses produits haut de gamme ?",
+    "REPONSE": "Harrods",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 195,
     "QUESTION": "Quel romancière a écrit “Orgueil et Préjugés” & “Raison et Sentiments” ?",
     "REPONSE": "Jane Austen",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "ARTL"
   },
   {
-    "ID": 185,
+    "Identifiant": 194,
+    "QUESTION": "Quel mention un bachelier obtient-il avec une moyenne de 17 sur 20 ?",
+    "REPONSE": "Mention très bien",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 193,
+    "QUESTION": "Quelle unité de puissance a pour symbole le W ?",
+    "REPONSE": "Le Watt",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 192,
+    "QUESTION": "Quelle ville se situe à proximité du Futuroscope ?",
+    "REPONSE": "Poitiers",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 191,
+    "QUESTION": "Combien la ville de Paris compte t-elle d’aéroports ?",
+    "REPONSE": 3,
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 190,
+    "QUESTION": "Quel fruit rouge est la spécialité de Plougastel ?",
+    "REPONSE": "La fraise",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 189,
+    "QUESTION": "Selon la légende, quel animal a allaité Rémus et Romulus, les fondateurs de Rome ?",
+    "REPONSE": "Une louve",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 188,
+    "QUESTION": "En Allemagne, quelle femme a précédé Olaf Scholz au poste de chancelier ?",
+    "REPONSE": "Angela Merkel",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 187,
+    "QUESTION": "En géométrie, que adjectif qualifie un angle entre 90 et 180 degrés ?",
+    "REPONSE": "Obtus",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 186,
+    "QUESTION": "Qui a été le premier président des Etats-Unis ?",
+    "REPONSE": "George Washington",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 185,
     "QUESTION": "En 1982, qui a été le premier Français a réaliser un vol spatial ?",
     "REPONSE": "Jean-Loup Chrétien",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "HIST"
   },
   {
-    "ID": 184,
+    "Identifiant": 184,
     "QUESTION": "Quel pays partage une frontière terrestre avec la Papouasie Nouvelle Guinée ?",
     "REPONSE": "L’indonésie",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "GEOG"
   },
   {
-    "ID": 182,
+    "Identifiant": 183,
+    "QUESTION": "Quel grand maître de l’impressionnisme à fini sa vie à Giverny",
+    "REPONSE": "Claude Monnet",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 182,
     "QUESTION": "Quel empereur romain a dit “L’argent n’a pas d’odeur” pour justifier son impôt sur l’urine des toilettes publiques ?",
     "REPONSE": "Vespasien",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "HIST"
   },
   {
-    "ID": 176,
+    "Identifiant": 181,
+    "QUESTION": "Quel spécialité culinaire est préparé à base d’oeufs de muge séché ?",
+    "REPONSE": "La poutargue",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 180,
+    "QUESTION": "Comment s’appelle l’équivalent du tour de France en Italie ?",
+    "REPONSE": "Le tour d’Italie ou le Giro",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 179,
+    "QUESTION": "Comment s’appelait la dernière Reine de France ?",
+    "REPONSE": "Marie Antoinette",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 178,
+    "QUESTION": "Comment s’appelle le célèbre tableau de René Magritte représentant une pipe ?",
+    "REPONSE": "La trahison des images",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 177,
+    "QUESTION": "Quel mouvement artistique est associé à Salvador Dalí ?",
+    "REPONSE": "Le surréalisme",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 176,
     "QUESTION": "Quel est le titre du tableau le plus célèbre de Dali représentant des montres molles ?",
     "REPONSE": "La persistance de la mémoire",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "ARTL"
   },
   {
-    "ID": 174,
+    "Identifiant": 175,
+    "QUESTION": "Dans quelle ville espagnole se trouve le Théâtre-Musée Dalí, conçu par l’artiste lui-même ?",
+    "REPONSE": "Figueras",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 174,
     "QUESTION": "Quel artiste et ami de Dalí a influencé son approche du surréalisme et de l’automatisme ?",
     "REPONSE": "André Breton",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "ARTL"
   },
   {
-    "ID": 171,
+    "Identifiant": 173,
+    "QUESTION": "Dans quelle période artistique de Picasso trouve-t-on des œuvres aux tons majoritairement bleus, marquées par la mélancolie ?",
+    "REPONSE": "La période bleue",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 172,
+    "QUESTION": "Quel peilntre néerlandais de la Renaissance est l’auteur du célèbre triptyque Le Jardin des Délices ?",
+    "REPONSE": "Hiéronymus Bosch",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 171,
     "QUESTION": "Quel peintre français autodidacte est célèbre pour ses tableaux représentant des jungles luxuriantes et des animaux exotiques ?",
     "REPONSE": "Le Douanier Rousseau",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "ARTL"
   },
   {
-    "ID": 167,
+    "Identifiant": 170,
+    "QUESTION": "Quel peintre née en 1869 est un des pionniers du fauvisme ?",
+    "REPONSE": "Henri Matisse",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 169,
+    "QUESTION": "Quel tableau peut on admirer en face de la Joconde au Louvre ?",
+    "REPONSE": "Les Noces de Cana, Paul Véronèse",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 168,
+    "QUESTION": "Qui a écrit le roman \"L’amour Ouf” ?",
+    "REPONSE": "Neville Thompson",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 167,
     "QUESTION": "De quel pays Tachkent est il la capitale ?",
     "REPONSE": "L’Ouzbekistan",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "GEOG"
   },
   {
-    "ID": 166,
+    "Identifiant": 166,
     "QUESTION": "Combien d’Etats membres compte actuellement l’ONU ?",
     "REPONSE": 193,
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "GEOG"
   },
   {
-    "ID": 165,
+    "Identifiant": 165,
     "QUESTION": "Quelle monnaie officielle du Guatemala porte le nom d’un oiseau ?",
     "REPONSE": "Le Quetzal",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "GEOG"
   },
   {
-    "ID": 149,
+    "Identifiant": 164,
+    "QUESTION": "Quel groupe de musique à sorti 4 albums studio dont Homework en 1997",
+    "REPONSE": "Daft Punk",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 163,
+    "QUESTION": "Parmi les pays voisins du Suriname, lequel a la plus grande superficie ?",
+    "REPONSE": "Le Brésil",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 162,
+    "QUESTION": "Quelle famille habite au 742 Terrace Evergreen ?",
+    "REPONSE": "Les Simpsons",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 161,
+    "QUESTION": "Qui a écrit Le Train Bleu",
+    "REPONSE": "Agatha Christie",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 160,
+    "QUESTION": "Quel est le plus vieux pont de Paris ?",
+    "REPONSE": "Le pont 9",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 159,
+    "QUESTION": "Dans quelle ville peut on admirer le Palais des Papes ?",
+    "REPONSE": "Avignon",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 158,
+    "QUESTION": "Quelle est la plus petite des trois pyramides de Gizeh ?",
+    "REPONSE": "La pyramide de Mykérinos",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 156,
+    "QUESTION": "Quel film de Stanley Kubrick met en scène un soldat nommé Baleine pendant la guerre du Vietnam ?",
+    "REPONSE": "Full Metal Jacket",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 155,
+    "QUESTION": "Quelle actrice a joué le rôle principal dans Kill Bill, réalisé par Quentin Tarantino ?",
+    "REPONSE": "Uma Thurman",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 154,
+    "QUESTION": "Quel film de science-fiction de 1982, réalisé par Ridley Scott, met en scène des réplicants et un chasseur de primes ?",
+    "REPONSE": "Blade Runner",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 153,
+    "QUESTION": "Quelle franchise de jeux vidéo est célèbre pour ses abris anti-nucléaires, ses radiations et son style inspiré des années 1950 ?",
+    "REPONSE": "Fallout",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 152,
+    "QUESTION": "Dans Pokémon, quel est le nom du professeur qui remet le premier Pokémon au joueur dans les premières générations ?",
+    "REPONSE": "Professeur Chen",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 151,
+    "QUESTION": "Quel est le studio de développement derrière les jeux The Witcher 3 et Cyberpunk 2077 ?",
+    "REPONSE": "CD Projekt Red",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 150,
+    "QUESTION": "Dans quel jeu de tir à la première personne incarne-t-on un soldat combattant des extraterrestres appelés les Covenants ?",
+    "REPONSE": "Halo",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 149,
     "QUESTION": "Quelle organisation internationale est responsable de la régulation de l’aviation civile dans le monde ?",
     "REPONSE": "L’OACI (Organisation de l’Aviation Civile Internationale)",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "CULT"
   },
   {
-    "ID": 91,
+    "Identifiant": 148,
+    "QUESTION": "Quelle est la force qui permet à un avion de rester en l’air en s’opposant à la gravité ?",
+    "REPONSE": "La portance",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 147,
+    "QUESTION": "Quel est le nom de l’avion supersonique de ligne qui reliait Paris à New York en moins de 4 heures ?",
+    "REPONSE": "Le Concorde",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 146,
+    "QUESTION": "Quel est le nom du plus grand avion commercial jamais construit, capable de transporter plus de 800 passagers ?",
+    "REPONSE": "Airbus A380",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 145,
+    "QUESTION": "Quel groupe français est spécialisé dans les produits laitiers et possède des marques comme Actimel et Evian ?",
+    "REPONSE": "Danone",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 144,
+    "QUESTION": "Quelle entreprise américaine est le plus grand détaillant de supermarchés au monde ?",
+    "REPONSE": "Walmart",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 143,
+    "QUESTION": "Quel conglomérat sud-coréen est connu pour ses smartphones, téléviseurs et appareils électroménagers ?",
+    "REPONSE": "Samsung",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 142,
+    "QUESTION": "Dans quelle ville se trouve le siège social de Coca-Cola ?",
+    "REPONSE": "Atlanta, États-Unis",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 141,
+    "QUESTION": "Quelle entreprise est le premier constructeur automobile mondial en termes de production ?",
+    "REPONSE": "Toyota",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 140,
+    "QUESTION": "Quel philosophe grec a été le maître d’Alexandre le Grand ?",
+    "REPONSE": "Aristote",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 139,
+    "QUESTION": "Quel est le premier long-métrage entièrement en images de synthèse produit par Pixar en 1995 ?",
+    "REPONSE": "Toy Story",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 138,
+    "QUESTION": "Dans Le Parrain, quel acteur incarne le jeune Vito Corleone dans le deuxième volet de la trilogie ?",
+    "REPONSE": "Robert De Niro",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 137,
+    "QUESTION": "Dans quel film culte de 1979 trouve-t-on la réplique \"Dans l’espace, personne ne vous entend crier\" ?",
+    "REPONSE": "Alien, le huitième passager",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 136,
+    "QUESTION": "Quel film de Stanley Kubrick met en scène une intelligence artificielle nommée HAL 9000 ?",
+    "REPONSE": "2001, l’Odyssée de l’espace",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 135,
+    "QUESTION": "Quel artiste est considéré comme le père de l’art optique et cinétique, connu pour ses illusions d’optique colorées ?",
+    "REPONSE": "Victor Vasarely",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 134,
+    "QUESTION": "Quel mouvement artistique du XXe siècle est connu pour ses formes géométriques et ses couleurs vives, notamment avec Pablo Picasso ?",
+    "REPONSE": "Le cubisme",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 133,
+    "QUESTION": "Dans quelle ville peut-on voir la fresque La Cène, peinte par Léonard de Vinci ?",
+    "REPONSE": "Milan",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 132,
+    "QUESTION": "Quel sculpteur français a réalisé Le Penseur ?",
+    "REPONSE": "Auguste Rodin",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 131,
+    "QUESTION": "Quel célèbre détective créé par Arthur Conan Doyle est connu pour sa logique et son flair infaillible ?",
+    "REPONSE": "Sherlock Holmes",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 130,
+    "QUESTION": "Quel écrivain français a écrit Les Misérables et Notre-Dame de Paris ?",
+    "REPONSE": "Victor Hugo",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 128,
+    "QUESTION": "Quelle créature mythologique a la tête de lion, le corps de chèvre et une queue de serpent ?",
+    "REPONSE": "La Chimère",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 127,
+    "QUESTION": "Quel est le nom de l’épée légendaire du roi Arthur, souvent associée à la légende de la Table ronde ?",
+    "REPONSE": "Excalibur",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 126,
+    "QUESTION": "Quelle femme a ouvert une boîte légendaire contenant tous les maux de l’humanité, selon la mythologie grecque ?",
+    "REPONSE": "Pandore",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 125,
+    "QUESTION": "Quel est le nom du roi de l’Atlantide dans la mythologie grecque, souvent associé à un continent englouti ?",
+    "REPONSE": "Atlas",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 124,
+    "QUESTION": "Dans la mythologie grecque, quel titan a donné le feu aux hommes ?",
+    "REPONSE": "Prométhée",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 123,
+    "QUESTION": "Quel est le nom du dieu nordique de la ruse et de la tromperie, connu pour ses nombreuses métamorphoses ?",
+    "REPONSE": "Loki",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 122,
+    "QUESTION": "Quel dieu romain est associé à la guerre et est l’équivalent d’Arès chez les Grecs ?",
+    "REPONSE": "Mars",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 121,
+    "QUESTION": "Dans la mythologie nordique, comment s’appelle le loup gigantesque destiné à tuer Odin lors du Ragnarök ?",
+    "REPONSE": "Fenrir",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 120,
+    "QUESTION": "Quel est le nom du fleuve des Enfers dans lequel Achille a été plongé pour devenir invincible ?",
+    "REPONSE": "Le Styx",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 119,
+    "QUESTION": "Quel est le nom du dieu égyptien des morts et de l’au-delà, souvent représenté avec une tête de chacal ?",
+    "REPONSE": "Anubis",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 118,
+    "QUESTION": "Quel héros grec a tué le Minotaure dans le labyrinthe de Crète ?",
+    "REPONSE": "Thésée",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 117,
+    "QUESTION": "Dans la mythologie nordique, quel est le nom du marteau de Thor ?",
+    "REPONSE": "Mjöllnir",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 116,
+    "QUESTION": "Dans la mythologie grecque, comment s’appelle le dieu de la mer et des eaux ?",
+    "REPONSE": "Poséidon",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 115,
+    "QUESTION": "Dans la mythologie grecque, comment s’appelle la déesse de la chasse ?",
+    "REPONSE": "Artemis",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 114,
+    "QUESTION": "Dans la mythologie grecque, comment s’appelle la déesse de la guerre ?",
+    "REPONSE": "Athéna",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 113,
+    "QUESTION": "Dans la mythologie grecque, comment s’appelle le dieu du vin ?",
+    "REPONSE": "Dionysos",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 112,
+    "QUESTION": "Quelle est la capitale de la Nouvelle Zélande ?",
+    "REPONSE": "Wellington",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 111,
+    "QUESTION": "Quelle est la capitale de la Suisse ?",
+    "REPONSE": "Berne",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 110,
+    "QUESTION": "Quel est le plus haut sommet d’Afrique ?",
+    "REPONSE": "Le Kilimanjaro",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 109,
+    "QUESTION": "Avec le Paraguay, quel est le deuxième pays d’Amérique du Sud à ne pas avoir accès à l’océan ?",
+    "REPONSE": "La Bolivie",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 108,
+    "QUESTION": "Dans quel pays se trouve le Machu Picchu ?",
+    "REPONSE": "Au Pérou",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 107,
+    "QUESTION": "Quelle est la capitale de l’Afrique du Sud ?",
+    "REPONSE": "Pretoria",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 106,
+    "QUESTION": "Quelle est la capitale de l’Australie ?",
+    "REPONSE": "Camberra",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 105,
+    "QUESTION": "Dans quelle ville s’est déroulée la COP21 en 2015 ?",
+    "REPONSE": "Paris",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 104,
+    "QUESTION": "Quelle est la capitale du Sri-Lanka ?",
+    "REPONSE": "Sri Jayawardenapura Kotte",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 103,
+    "QUESTION": "Quelle est la capitale de la Mongolie",
+    "REPONSE": "Oulan-Bator",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 102,
+    "QUESTION": "Quel est le plus long fleuve du monde ?",
+    "REPONSE": "L’Amazone",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 101,
+    "QUESTION": "Qui a  peint le tableau “Le Verrou” ?",
+    "REPONSE": "Jean-Honoré Fragonard",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "ARTL"
+  },
+  {
+    "Identifiant": 100,
+    "QUESTION": "Quel est le jeu vidéo le plus vendu au monde ?",
+    "REPONSE": "Minecraft",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 99,
+    "QUESTION": "Quel éditeur de logiciels, fondé en 1982, est célèbre pour ses outils de conception graphique, d’édition vidéo et de gestion de documents PDF ?",
+    "REPONSE": "Adobe",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 98,
+    "QUESTION": "Quel domaine des Enfers grecs, gouverné par Hadès, est réservé aux héros et aux âmes ayant mené une vie exemplaire ?",
+    "REPONSE": "Les Champs Élysées",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 97,
+    "QUESTION": "Quelle stèle, découverte en 1799 et contenant un même texte en trois écritures différentes, a joué un rôle clé dans le déchiffrement des hiéroglyphes ?",
+    "REPONSE": "La pierre de Rosette",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 96,
+    "QUESTION": "Quelles sont les lettres utilisées pour représenter les 4 types de nucléotides sur un brin d’ADN ?",
+    "REPONSE": "A T C G",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 95,
+    "QUESTION": "Quelle fête juive, célébrant la libération des Hébreux d’Égypte, a inspiré une fête chrétienne marquant la résurrection de Jésus ?",
+    "REPONSE": "Pessa'h",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 94,
+    "QUESTION": "Combien y a-t-il de fantômes dans le premier jeux vidéo PAC MAN ?",
+    "REPONSE": 4,
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 93,
+    "QUESTION": "Combien de président a compté la quatrième république ?",
+    "REPONSE": 2,
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 92,
+    "QUESTION": "Quel dirigeant des Etats Unis à inspiré le nom de l’ours en peluche “Teddy Bear” ?",
+    "REPONSE": "Théodore Roosevelt",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 91,
+    "QUESTION": "Quel a été le premier Roi des Carolingiens ?",
+    "REPONSE": "Pépin le Bref",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 90,
     "QUESTION": "Qui a succédé à Charlemagne en 814 ?",
     "REPONSE": "Louis le Pieux",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "HIST"
   },
   {
-    "ID": 66,
+    "Identifiant": 89,
+    "QUESTION": "Quel a été le premier Roi des Mérovingiens ?",
+    "REPONSE": "Clovis Ier",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 88,
+    "QUESTION": "Quel a été le dernier Roi des français ?",
+    "REPONSE": "Louis Philippe Ier",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 87,
+    "QUESTION": "Quel a été le premier Empereur romain ?",
+    "REPONSE": "Auguste Ier",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 86,
+    "QUESTION": "Quel dieu principal de la mythologie nordique est souvent représenté avec un œil en moins et un corbeau sur chaque épaule ?",
+    "REPONSE": "Odin",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 85,
+    "QUESTION": "Officiellement, combien de dieux siègent au mont Olympe ?",
+    "REPONSE": 14,
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 84,
+    "QUESTION": "Quel dieu grec est associé à Mercure ?",
+    "REPONSE": "Hermès",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "MYTH"
+  },
+  {
+    "Identifiant": 83,
+    "QUESTION": "Qui était surnommé le Roi Soleil ?",
+    "REPONSE": "Louis XIV",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 82,
+    "QUESTION": "Qui a dirigé l’URSS de 1990 à 1991 ?",
+    "REPONSE": "Mikhaïl Gorbatchev",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 81,
+    "QUESTION": "Qui a été nommé président de la fédération de Russie à la chute de l’URSS ?",
+    "REPONSE": "Boris Eltsine",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 80,
+    "QUESTION": "Quel dirigeant athénien est souvent considéré comme l'un des principaux artisans de la démocratie grecque antique ?",
+    "REPONSE": "Périclès",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 79,
+    "QUESTION": "Quels sont les 2 principaux affluents du Nil ?",
+    "REPONSE": "Le Nil Bleu et le Nil Blanc",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 78,
+    "QUESTION": "Que signifie le sigle CH que l’on peut trouver sur les plaques d’immatriculation suisse ?",
+    "REPONSE": "Confédération Helvétique",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "CULT"
+  },
+  {
+    "Identifiant": 77,
+    "QUESTION": "Dans quelle pays se trouve l'île de Bali ?",
+    "REPONSE": "L’indonésie",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 76,
+    "QUESTION": "Quel sommet culmine à 8849 m d’altitude ?",
+    "REPONSE": "L’Everest",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 75,
+    "QUESTION": "Quel sommet culmine à 4809 m d’altitude ?",
+    "REPONSE": "Le Mont Blanc",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "GEOG"
+  },
+  {
+    "Identifiant": 74,
+    "QUESTION": "En quelle année s’est instauré la première république ?",
+    "REPONSE": 1792,
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 73,
+    "QUESTION": "En quelle année l’Homme a t-il marché pour la première fois sur la Lune ?",
+    "REPONSE": 1969,
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 72,
+    "QUESTION": "En quelle année Napoléon 1er a t-il été sacré Empereur ?",
+    "REPONSE": 1804,
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 71,
+    "QUESTION": "En quelle année a eu lieu l’Hégire ?",
+    "REPONSE": 622,
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 70,
+    "QUESTION": "En quelle année les Etats-unis ont-ils frappé nucléairement le Japon ?",
+    "REPONSE": 1946,
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 69,
+    "QUESTION": "En quelle année est tombé le mur de Berlin ?",
+    "REPONSE": 1989,
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 68,
+    "QUESTION": "Quelle célèbre bataille s’est déroulée en -52 avant JC ?",
+    "REPONSE": "La bataille d’Alésia",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 67,
+    "QUESTION": "Quelle bataille s’est achevée le 18 décembre 1916 ?",
+    "REPONSE": "La bataille de Verdun",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "HIST"
+  },
+  {
+    "Identifiant": 66,
     "QUESTION": "Quelles molécules sont les composants fondamentaux des protéines dans les organismes vivants ?",
     "REPONSE": "Les acides aminés",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 65,
+    "Identifiant": 65,
     "QUESTION": "Quel mécanisme de division cellulaire se déroule en deux phases successives et conduit à la production de cellules haploïdes ?",
     "REPONSE": "La méiose",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 64,
+    "Identifiant": 64,
     "QUESTION": "Quel phénomène aérodynamique, est responsable de la déviation d’un projectile ou d’un ballon lorsqu’il tourne sur lui-même ?",
     "REPONSE": "L’effet Magnus",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 63,
+    "Identifiant": 63,
     "QUESTION": "Quel scientifique a prédit l'existence de l'antimatière grâce à une équation relativiste des électrons ?",
     "REPONSE": "Paul Dirac",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 62,
+    "Identifiant": 62,
     "QUESTION": "Quel organite est responsable de la production d'énergie dans une cellule humaine ?",
     "REPONSE": "Mitochondrie",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 20,
+    "Identifiant": 61,
+    "QUESTION": "Quelle famille de substances comprend la morphine, la codéine et le fentanyl, et agit en se fixant sur des récepteurs spécifiques du cerveau ?",
+    "REPONSE": "Les opioïdes",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 60,
+    "QUESTION": "Quel trouble de la vision est causé par une anomalie ou une absence des cônes sensibles au rouge, au vert ou au bleu dans la rétine ?",
+    "REPONSE": "Le Daltonisme",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 59,
+    "QUESTION": "Quel scientifique a démontré que l'univers est en expansion grâce à ses observations des galaxies lointaines ?",
+    "REPONSE": "Edwin Hubble",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 58,
+    "QUESTION": "Quel type de cellule ne possède pas de noyau et est caractéristique des bactéries ?",
+    "REPONSE": "Procaryote",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 57,
+    "QUESTION": "Quel scientifique est connu pour la théorisation du principe d’incertitude ?",
+    "REPONSE": "Werner Heisenberg",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 56,
+    "QUESTION": "Quel astronaute français est connu pour son rôle dans la réparation du télescope spatial Hubble ?",
+    "REPONSE": "Jean-François Clervoy",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 55,
+    "QUESTION": "Quel est le nom du premier satellite envoyé en orbite par la France ?",
+    "REPONSE": "Astérix",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 54,
+    "QUESTION": "Quelle molécule fournit l'énergie nécessaire aux processus cellulaires comme la contraction musculaire ou la synthèse de molécules ?",
+    "REPONSE": "L’adénosine triphosphate (ATP)",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 53,
+    "QUESTION": "Comment s'appelle la branche de la science qui étudie les relations entre les phénomènes thermiques et mécaniques ?",
+    "REPONSE": "La thermodynamique",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 52,
+    "QUESTION": "Qui a développé la théorie de l'électromagnétisme, posant les bases des communications modernes comme la radio et les télécommunications ?",
+    "REPONSE": "James Clerk Maxwell",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 51,
+    "QUESTION": "En quelle année Einstein a-t-il établi la théorie de la relativité générale ?",
+    "REPONSE": 1915,
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 50,
+    "QUESTION": "Quelle famille de substances comprend la morphine, la codéine et le fentanyl, et agit en se fixant sur des récepteurs spécifiques du cerveau ?",
+    "REPONSE": "Les opioïdes",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 49,
+    "QUESTION": "Comment se nomme l’étoile la plus proche du système solaire ?",
+    "REPONSE": "Proxima du Centaure",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 48,
+    "QUESTION": "Combien y a t il de planètes dans le système solaire",
+    "REPONSE": 8,
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 47,
+    "QUESTION": "Quelle forme d’énergie est produite par la fission des atomes dans une centrale spécifique ?",
+    "REPONSE": "L’énergie nucléaire",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 46,
+    "QUESTION": "Quel ensemble de tissus biologiques permet la transmission des informations entre le cerveau et le reste du corps ?",
+    "REPONSE": "Le système nerveux",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 45,
+    "QUESTION": "Quel processus permet aux plantes de convertir la lumière du soleil en énergie utilisable ?",
+    "REPONSE": "La photosynthèse",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 44,
+    "QUESTION": "Quel est le nom du premier satellite artificiel envoyé en orbite ?",
+    "REPONSE": "Spoutnik 1",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 43,
+    "QUESTION": "Quel physicien italien a inventé la pile électrique ?",
+    "REPONSE": "Alessandro Volta",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 42,
+    "QUESTION": "Quel physicien français a donné son nom à une unité de mesure de l’intensité électrique ?",
+    "REPONSE": "André-Marie Ampère",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 41,
+    "QUESTION": "Quel est le nom de la théorie complémentaire à la relativité générale d’Einstein ?",
+    "REPONSE": "La relativité restreinte",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 40,
+    "QUESTION": "Quel scientifique a théorisé les lois de la gravitation universelle ?",
+    "REPONSE": "Isaac Newton",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 39,
+    "QUESTION": "Comment appelle t-on une planète composée essentiellement de minéraux et de métaux ?",
+    "REPONSE": "Tellurique",
+    "DIFFICULTE": "FACILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 38,
+    "QUESTION": "Quel élément chimique a pour symbole Eu ?",
+    "REPONSE": "Europium",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 37,
+    "QUESTION": "Quel élément chimique a pour symbole Nh ?",
+    "REPONSE": "Nihonium",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 36,
+    "QUESTION": "Quel élément chimique a pour symbole Rg ?",
+    "REPONSE": "Roentgenium",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 35,
+    "QUESTION": "Quel élément chimique a pour symbole Cn ?",
+    "REPONSE": "Copernicium",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 34,
+    "QUESTION": "Quel élément chimique a pour symbole Lu ?",
+    "REPONSE": "Lutecium",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 33,
+    "QUESTION": "Quel élément chimique a pour symbole Og ?",
+    "REPONSE": "Oganesson",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 32,
+    "QUESTION": "Quel élément chimique a pour symbole Np ?",
+    "REPONSE": "Neptunium",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 31,
+    "QUESTION": "Quel élément chimique a pour symbole Sb ?",
+    "REPONSE": "Antimoine",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 30,
+    "QUESTION": "Quel élément chimique a pour symbole Cf ?",
+    "REPONSE": "Californium",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 29,
+    "QUESTION": "Quel élément chimique a pour symbole Hs ?",
+    "REPONSE": "Hassium",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 28,
+    "QUESTION": "Quel élément chimique a pour symbole U ?",
+    "REPONSE": "Uranium",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 27,
+    "QUESTION": "Quel élément chimique a pour symbole Ir ?",
+    "REPONSE": "Iridium",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 26,
+    "QUESTION": "Quel élément chimique a pour symbole As ?",
+    "REPONSE": "Arsenic",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 25,
+    "QUESTION": "Quel élément chimique a pour symbole Pb ?",
+    "REPONSE": "Plomb",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 24,
+    "QUESTION": "Quel élément chimique a pour symbole Fe ?",
+    "REPONSE": "Fer",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 23,
+    "QUESTION": "Quel élément chimique a pour symbole Pt ?",
+    "REPONSE": "Platine",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 22,
+    "QUESTION": "Quel élément chimique a pour symbole Au ?",
+    "REPONSE": "Or",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 21,
+    "QUESTION": "Quel élément chimique a pour symbole Ar ?",
+    "REPONSE": "Argon",
+    "DIFFICULTE": "NORMAL",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 20,
     "QUESTION": "Quel élément chimique a pour symbole Fr ?",
     "REPONSE": "Francium",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 19,
-    "QUESTION": "Quel élément chimique a pour symbole V ?",
-    "REPONSE": "Vanadium",
-    "DIFFICULTE": "DIFFICILE",
-    "CATEGORIE": "SCIE"
-  },
-  {
-    "ID": 18,
+    "Identifiant": 19,
     "QUESTION": "Quel élément chimique a pour symbole Rn ?",
     "REPONSE": "Radon",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 17,
-    "QUESTION": "Quel élément chimique a pour symbole Te ?",
-    "REPONSE": "Tellure",
+    "Identifiant": 18,
+    "QUESTION": "Quel élément chimique a pour symbole V ?",
+    "REPONSE": "Vanadium",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 16,
+    "Identifiant": 17,
     "QUESTION": "Quel élément chimique a pour symbole Os ?",
     "REPONSE": "Osmium",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 14,
-    "QUESTION": "Quel élément chimique a pour symbole Cm ?",
-    "REPONSE": "Curium",
+    "Identifiant": 16,
+    "QUESTION": "Quel élément chimique a pour symbole Te ?",
+    "REPONSE": "Tellure",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 15,
+    "Identifiant": 15,
     "QUESTION": "Quel élément chimique a pour symbole At ?",
     "REPONSE": "Astate",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 13,
+    "Identifiant": 14,
+    "QUESTION": "Quel élément chimique a pour symbole Cm ?",
+    "REPONSE": "Curium",
+    "DIFFICULTE": "DIFFICILE",
+    "CATEGORIE": "SCIE"
+  },
+  {
+    "Identifiant": 13,
     "QUESTION": "Quel élément chimique a pour symbole Se ?",
     "REPONSE": "Sélénium",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 12,
+    "Identifiant": 12,
     "QUESTION": "Quel élément chimique a pour symbole Be ?",
     "REPONSE": "Béryllium",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 11,
+    "Identifiant": 11,
     "QUESTION": "Quel élément chimique a pour symbole Kr ?",
     "REPONSE": "Krypton",
     "DIFFICULTE": "DIFFICILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 104,
-    "QUESTION": "Quelle est la capitale du Sri-Lanka ?",
-    "REPONSE": "Sri Jayawardenapura Kotte",
-    "DIFFICULTE": "EXTREME",
-    "CATEGORIE": "GEOG"
-  },
-  {
-    "ID": 37,
-    "QUESTION": "Quel élément chimique a pour symbole Nh ?",
-    "REPONSE": "Nihonium",
-    "DIFFICULTE": "EXTREME",
+    "Identifiant": 10,
+    "QUESTION": "Quel est le symbole chimique de l’iode ?",
+    "REPONSE": "I",
+    "DIFFICULTE": "FACILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 38,
-    "QUESTION": "Quel élément chimique a pour symbole Eu ?",
-    "REPONSE": "Europium",
-    "DIFFICULTE": "EXTREME",
+    "Identifiant": 9,
+    "QUESTION": "Quel est le symbole chimique du chlore ?",
+    "REPONSE": "Cl",
+    "DIFFICULTE": "FACILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 36,
-    "QUESTION": "Quel élément chimique a pour symbole Rg ?",
-    "REPONSE": "Roentgenium",
-    "DIFFICULTE": "EXTREME",
+    "Identifiant": 8,
+    "QUESTION": "Quel est le symbole chimique du lithium ?",
+    "REPONSE": "Li",
+    "DIFFICULTE": "FACILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 34,
-    "QUESTION": "Quel élément chimique a pour symbole Lu ?",
-    "REPONSE": "Lutecium",
-    "DIFFICULTE": "EXTREME",
+    "Identifiant": 7,
+    "QUESTION": "Quel est le symbole chimique du sodium ?",
+    "REPONSE": "Na",
+    "DIFFICULTE": "FACILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 35,
-    "QUESTION": "Quel élément chimique a pour symbole Cn ?",
-    "REPONSE": "Copernicium",
-    "DIFFICULTE": "EXTREME",
+    "Identifiant": 6,
+    "QUESTION": "Quel est le symbole chimique du carbone ?",
+    "REPONSE": "C",
+    "DIFFICULTE": "FACILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 33,
-    "QUESTION": "Quel élément chimique a pour symbole Np ?",
-    "REPONSE": "Neptunium",
-    "DIFFICULTE": "EXTREME",
+    "Identifiant": 5,
+    "QUESTION": "Quel est le symbole chimique du magnésium ?",
+    "REPONSE": "Mg",
+    "DIFFICULTE": "FACILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 32,
-    "QUESTION": "Quel élément chimique a pour symbole Og ?",
-    "REPONSE": "Oganesson",
-    "DIFFICULTE": "EXTREME",
+    "Identifiant": 4,
+    "QUESTION": "Quel est le symbole chimique de l’azote ?",
+    "REPONSE": "N",
+    "DIFFICULTE": "FACILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 30,
-    "QUESTION": "Quel élément chimique a pour symbole Cf ?",
-    "REPONSE": "Californium",
-    "DIFFICULTE": "EXTREME",
+    "Identifiant": 3,
+    "QUESTION": "Quel est le symbole chimique de l’oxygène ?",
+    "REPONSE": "O",
+    "DIFFICULTE": "FACILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 31,
-    "QUESTION": "Quel élément chimique a pour symbole Sb ?",
-    "REPONSE": "Antimoine",
-    "DIFFICULTE": "EXTREME",
+    "Identifiant": 2,
+    "QUESTION": "Quel est le symbole chimique de l’hydrogène ?",
+    "REPONSE": "H",
+    "DIFFICULTE": "FACILE",
     "CATEGORIE": "SCIE"
   },
   {
-    "ID": 29,
-    "QUESTION": "Quel élément chimique a pour symbole Hs ?",
-    "REPONSE": "Hassium",
-    "DIFFICULTE": "EXTREME",
+    "Identifiant": 1,
+    "QUESTION": "Quel est le symbole chimique du potassium ?",
+    "REPONSE": "K",
+    "DIFFICULTE": "FACILE",
     "CATEGORIE": "SCIE"
   }
 ]
