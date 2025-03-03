@@ -21,11 +21,15 @@ function fetchQuestions() {
     window.location.href = "settings.html";
     return;
   }
-  fetch("http://localhost:3000/questions", {
+  fetch("https://quizz-app.up.railway.app/questions", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ categories: selectedCategories, difficulty: selectedDifficulty })
-  })
+    body: JSON.stringify({
+      categories: selectedCategories,
+      difficulty: selectedDifficulty
+    })
+})
+
   .then(res => res.json())
   .then(data => {
     if (data.length < 20) {
