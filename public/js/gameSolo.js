@@ -13,7 +13,7 @@ const categoryNames = {
   MYTH: "Mythologie"
 };
 
-const FRENCH_STOPWORDS = ["l","le","la","les","des","un","une","de","du"];
+const FRENCH_STOPWORDS = ["l","le","la","les","des","un","une","de","du","l'","en","au"];
 let soundCorrect, soundWrong;
 
 document.addEventListener("DOMContentLoaded", () => {
