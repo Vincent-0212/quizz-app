@@ -325,7 +325,7 @@ footer p, #copyright {
   }
 
   #copyright {
-    padding: 0px;
+    padding-bottom: 20px;
   }
 
   .popup-title {
