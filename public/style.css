@@ -265,6 +265,10 @@ footer p, #copyright {
   font-family: 'SpaceB', sans-serif;
 }
 
+#subtitle {
+  font-size: 0.6rem;
+}
+
 @media (max-width: 600px) {
   h1 {
     font-size: 2rem; 
@@ -306,7 +310,7 @@ footer p, #copyright {
 
   .game-container {
     padding: 0px 40px 0px 40px;
-    margin: -100px 40px 0px 40px;
+    margin: -80px 40px 0px 40px;
   }
 
   .category-container {
